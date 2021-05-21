@@ -1,0 +1,35 @@
+/*----------font-family: 'Pattaya', sans-serif;--------------*/
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: 0;
+          box-sizing: 0;
+}
+
+body {
+  background-color: #6b3c50;
+}
+
+/*----------------------ENCABEZADO---------------------------*/
+.encabezado {
+  width: auto;
+  height: 220px;
+  border: solid black;
+  background-color: #028a0f;
+}
+
+.encabezado .titulo {
+  width: 50%;
+  height: 100px;
+}
+
+.encabezado .titulo .mytitulo {
+  font-family: 'Pattaya', sans-serif;
+  font-size: 50px;
+}
+
+.encabezado .titulo .logo {
+  width: 128px;
+  height: 128px;
+}
+/*# sourceMappingURL=style.css.map */
